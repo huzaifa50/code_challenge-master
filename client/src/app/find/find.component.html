@@ -1,0 +1,32 @@
+<mat-spinner *ngIf="processing" style="margin:0 auto;"></mat-spinner>
+
+<mat-card>
+  <mat-card-title>Character Details</mat-card-title>
+  <mat-card-content>
+    <table class="example-full-width" cellspacing="0">
+      <tr>
+        <td>
+          <br>
+          <mat-form-field appearance="fill">
+            <mat-label>Hero Name</mat-label>
+            <input matInput disabled value="{{character.name}}">
+          </mat-form-field>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <mat-form-field appearance="fill" style="width: 300px;">
+            <mat-label>Bio</mat-label>
+            <textarea matInput disabled>{{character.bio}}</textarea>
+          </mat-form-field>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img mat-card-image src="{{character.photo}}">
+        </td>
+      </tr>
+    </table>
+
+  </mat-card-content>
+</mat-card>

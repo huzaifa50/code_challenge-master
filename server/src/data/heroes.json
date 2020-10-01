@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "CAPTAIN MARVEL",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/008cmv_ons_cut_mob_03.jpg",
+    "bio": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races."
+  },
+  {
+    "id": 2,
+    "name": "THANOS",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/019tha_ons_cut_mob_01_1.jpg",
+    "bio": "The Mad Titan Thanos quests across the universe in search of the Infinity Stones, intending to use their limitless power for shocking purposes."
+  },
+  {
+    "id": 3,
+    "name": "BLACK PANTHER",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/007blp_ons_cut_dsk_01_2.jpg",
+    "bio": "T’Challa is the king of the secretive and highly advanced African nation of Wakanda - as well as the powerful warrior known as the Black Panther."
+  },
+  {
+    "id": 4,
+    "name": "YON-ROGG",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/272sfc_ons_cut_mob_02.jpg",
+    "bio": "As the leader of a squad of elite Kree soldiers, Yon-Rogg takes newly-recruited Carol Danvers under his wing and trains her."
+  },
+  {
+    "id": 5,
+    "name": "SPIDER-MAN",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/005smp_ons_cut_mob_01_6.jpg",
+    "bio": "Bitten by a radioactive spider, Peter Parker’s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles."
+  },
+  {
+    "id": 6,
+    "name": "GOOSE THE CAT",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/247chw_ons_cut_dsk_02.jpg",
+    "bio": "The friendliest and furriest resident of Project Pegasus, Goose is the affectionate tabby cat that joins Carol Danvers and Nick Fury on their adventure."
+  },
+  {
+    "id": 7,
+    "name": "IRON MAN",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/002irm_ons_cut_dsk_01_1.jpg",
+    "bio": "Genius. Billionaire. Philanthropist. Tony Stark's confidence is only matched by his high-flying abilities as the hero called Iron Man."
+  },
+  {
+    "id": 8,
+    "name": "CAPTAIN AMERICA",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/003cap_ons_cut_dsk_01_1.jpg",
+    "bio": "Recipient of the Super-Soldier serum, World War II hero Steve Rogers fights for American ideals as one of the world’s mightiest heroes and the leader of the Avengers."
+  },
+  {
+    "id": 9,
+    "name": "BLACK WIDOW",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/011blw_ons_cut_dsk_01_1.jpg",
+    "bio": "Despite super spy Natasha Romanoff’s checkered past, she’s become one of S.H.I.E.L.D.’s most deadly assassins and a frequent member of the Avengers."
+  },
+  {
+    "id": 10,
+    "name": "HULK",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/006hbb_ons_cut_mob_01_2.jpg",
+    "bio": "Dr. Bruce Banner lives a life caught between the soft-spoken scientist he’s always been and the uncontrollable green monster powered by his rage."
+  },
+  {
+    "id": 11,
+    "name": "HAWKEYE",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/018hcb_ons_cut_dsk_01_1.jpg",
+    "bio": "A master marksman and longtime friend of Black Widow, Clint Barton serves as the Avengers’ amazing archer."
+  },
+  {
+    "id": 12,
+    "name": "THOR",
+    "photo": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/004tho_ons_cut_dsk_01_3.jpg",
+    "bio": "The son of Odin uses his mighty abilities as the God of Thunder to protect his home Asgard and planet Earth alike."
+  }
+]
